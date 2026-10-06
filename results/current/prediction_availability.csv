@@ -1,0 +1,49 @@
+target,arm,seed,prediction_available,prediction_file,note
+Bearing1_1,multimodal,0,True,predictions/Bearing1_1/multimodal/seed0.csv,saved historical per-seed prediction
+Bearing1_1,multimodal,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_1,multimodal,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_1,multimodal,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_1,vibration_only,0,True,predictions/Bearing1_1/vibration_only/seed0.csv,saved historical per-seed prediction
+Bearing1_1,vibration_only,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_1,vibration_only,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_1,vibration_only,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_4,multimodal,0,True,predictions/Bearing1_4/multimodal/seed0.csv,saved historical per-seed prediction
+Bearing1_4,multimodal,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_4,multimodal,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_4,multimodal,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_4,vibration_only,0,True,predictions/Bearing1_4/vibration_only/seed0.csv,saved historical per-seed prediction
+Bearing1_4,vibration_only,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_4,vibration_only,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_4,vibration_only,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_1,multimodal,0,True,predictions/Bearing2_1/multimodal/seed0.csv,saved historical per-seed prediction
+Bearing2_1,multimodal,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_1,multimodal,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_1,multimodal,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_1,vibration_only,0,True,predictions/Bearing2_1/vibration_only/seed0.csv,saved historical per-seed prediction
+Bearing2_1,vibration_only,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_1,vibration_only,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_1,vibration_only,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_4,multimodal,0,True,predictions/Bearing2_4/multimodal/seed0.csv,saved historical per-seed prediction
+Bearing2_4,multimodal,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_4,multimodal,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_4,multimodal,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_4,vibration_only,0,True,predictions/Bearing2_4/vibration_only/seed0.csv,saved historical per-seed prediction
+Bearing2_4,vibration_only,1,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_4,vibration_only,2,False,,historical metrics available; per-seed prediction was not saved
+Bearing2_4,vibration_only,3,False,,historical metrics available; per-seed prediction was not saved
+Bearing1_1,temperature_only,0,True,predictions/Bearing1_1/temperature_only/seed0.csv,saved historical per-seed prediction
+Bearing1_1,temperature_only,1,True,predictions/Bearing1_1/temperature_only/seed1.csv,saved historical per-seed prediction
+Bearing1_1,temperature_only,2,True,predictions/Bearing1_1/temperature_only/seed2.csv,saved historical per-seed prediction
+Bearing1_1,temperature_only,3,True,predictions/Bearing1_1/temperature_only/seed3.csv,saved historical per-seed prediction
+Bearing1_4,temperature_only,0,True,predictions/Bearing1_4/temperature_only/seed0.csv,saved historical per-seed prediction
+Bearing1_4,temperature_only,1,True,predictions/Bearing1_4/temperature_only/seed1.csv,saved historical per-seed prediction
+Bearing1_4,temperature_only,2,True,predictions/Bearing1_4/temperature_only/seed2.csv,saved historical per-seed prediction
+Bearing1_4,temperature_only,3,True,predictions/Bearing1_4/temperature_only/seed3.csv,saved historical per-seed prediction
+Bearing2_1,temperature_only,0,True,predictions/Bearing2_1/temperature_only/seed0.csv,saved historical per-seed prediction
+Bearing2_1,temperature_only,1,True,predictions/Bearing2_1/temperature_only/seed1.csv,saved historical per-seed prediction
+Bearing2_1,temperature_only,2,True,predictions/Bearing2_1/temperature_only/seed2.csv,saved historical per-seed prediction
+Bearing2_1,temperature_only,3,True,predictions/Bearing2_1/temperature_only/seed3.csv,saved historical per-seed prediction
+Bearing2_4,temperature_only,0,True,predictions/Bearing2_4/temperature_only/seed0.csv,saved historical per-seed prediction
+Bearing2_4,temperature_only,1,True,predictions/Bearing2_4/temperature_only/seed1.csv,saved historical per-seed prediction
+Bearing2_4,temperature_only,2,True,predictions/Bearing2_4/temperature_only/seed2.csv,saved historical per-seed prediction
+Bearing2_4,temperature_only,3,True,predictions/Bearing2_4/temperature_only/seed3.csv,saved historical per-seed prediction

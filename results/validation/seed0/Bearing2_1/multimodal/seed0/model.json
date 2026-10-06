@@ -1,0 +1,76 @@
+{
+  "max_life": 100.0,
+  "target": "Bearing2_1",
+  "arm": "multimodal",
+  "seed": 0,
+  "config": {
+    "seeds": [
+      0
+    ],
+    "epochs": 30000,
+    "window": 20,
+    "hidden_units": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 1e-05,
+    "fixed_lambda": 0.1,
+    "temperature_clip_K": [
+      300.0,
+      450.0
+    ],
+    "arms": [
+      "multimodal",
+      "vibration_only",
+      "temperature_only"
+    ],
+    "targets": {
+      "Bearing1_1": {
+        "train": [
+          "Bearing1_4.pkl",
+          "Bearing1_6.pkl"
+        ],
+        "test": "Bearing1_1.pkl",
+        "params": {
+          "n_internal_units": 90,
+          "input_scaling": 0.6,
+          "noise_level": 0.0
+        }
+      },
+      "Bearing1_4": {
+        "train": [
+          "Bearing1_1.pkl",
+          "Bearing1_6.pkl"
+        ],
+        "test": "Bearing1_4.pkl",
+        "params": {
+          "n_internal_units": 90,
+          "input_scaling": 0.3,
+          "noise_level": 0.0001
+        }
+      },
+      "Bearing2_1": {
+        "train": [
+          "Bearing2_5.pkl",
+          "Bearing2_6.pkl"
+        ],
+        "test": "Bearing2_1.pkl",
+        "params": {
+          "n_internal_units": 135,
+          "input_scaling": 0.3,
+          "noise_level": 0.0
+        }
+      },
+      "Bearing2_4": {
+        "train": [
+          "Bearing2_1.pkl",
+          "Bearing2_5.pkl"
+        ],
+        "test": "Bearing2_4.pkl",
+        "params": {
+          "n_internal_units": 45,
+          "input_scaling": 0.9,
+          "noise_level": 0.0001
+        }
+      }
+    }
+  }
+}

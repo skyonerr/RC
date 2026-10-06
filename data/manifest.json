@@ -1,0 +1,44 @@
+[
+  {
+    "path": "data/processed/Bearing1_1.pkl",
+    "source": "D:\\PyCharm\\data\\Bearing1_1_full2.pkl",
+    "sha256": "2ecc3b634c99b698d5bac46ae5efe4cdbd1b000837e56e4a44a08813ad2931fd",
+    "bytes": 180012
+  },
+  {
+    "path": "data/processed/Bearing1_4.pkl",
+    "source": "D:\\PyCharm\\data\\Bearing1_4_full2.pkl",
+    "sha256": "6f5faa3cc8de1b9e4a5e79a530c31a477a83a7099a0149177782b2429d6aed07",
+    "bytes": 77644
+  },
+  {
+    "path": "data/processed/Bearing1_6.pkl",
+    "source": "D:\\PyCharm\\data\\Bearing1_6_full2.pkl",
+    "sha256": "8fcab1615b8fa96c051c4d1975a4e09f572bd5bc3e9d8492c49e9b2e52cfcaf2",
+    "bytes": 547347
+  },
+  {
+    "path": "data/processed/Bearing2_1.pkl",
+    "source": "D:\\PyCharm\\data\\Bearing2_1_full2.pkl",
+    "sha256": "85620a1e5e0b7152241aa4d0497ca2b613857a9dfd26c690eed10ea87770f80a",
+    "bytes": 202153
+  },
+  {
+    "path": "data/processed/Bearing2_4.pkl",
+    "source": "D:\\PyCharm\\data\\Bearing2_4_full2.pkl",
+    "sha256": "8e0775b69b67a00ff79f68872fcee4e6ad379c927dbbdef43872d2ee3d174e53",
+    "bytes": 167210
+  },
+  {
+    "path": "data/processed/Bearing2_5.pkl",
+    "source": "D:\\PyCharm\\data\\Bearing2_5_full2.pkl",
+    "sha256": "02fca787fe535f75b5dc789fc81ff5034daccb2e4644b451f5ba353fea1dacb9",
+    "bytes": 518003
+  },
+  {
+    "path": "data/processed/Bearing2_6.pkl",
+    "source": "D:\\PyCharm\\data\\Bearing2_6_full2.pkl",
+    "sha256": "da274ab3e38c41030ede59dec42c9479b00689af6860c7a3a60c16aca5cdff28",
+    "bytes": 156010
+  }
+]
